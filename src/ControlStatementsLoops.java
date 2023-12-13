@@ -25,6 +25,7 @@ public class ControlStatementsLoops {
 //        String userInput = sc.next();
 //
 ////        boolean confirmation = userInput == "y"; (DO NOT USE!)
+//          use .equals method to ensure values are correctly compared
 ////        anytime you initiate a string, it is a different object
 //
 //        System.out.println(userInput == "y");
